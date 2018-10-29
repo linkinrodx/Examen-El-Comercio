@@ -1,0 +1,11 @@
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\bin\Debug\netcoreapp2.0\Conexion.deps.json
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\bin\Debug\netcoreapp2.0\Conexion.runtimeconfig.json
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\bin\Debug\netcoreapp2.0\Conexion.runtimeconfig.dev.json
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\bin\Debug\netcoreapp2.0\Conexion.dll
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\bin\Debug\netcoreapp2.0\Conexion.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.csprojAssemblyReference.cache
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.csproj.CoreCompileInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.AssemblyInfoInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.AssemblyInfo.cs
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.dll
+E:\Proyectos RSS\Evaluacion Comercio\Conexion\obj\Debug\netcoreapp2.0\Conexion.pdb

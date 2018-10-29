@@ -1,0 +1,20 @@
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Evaluacion 1.Test.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Evaluacion 1.Test.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Evaluacion 1.exe
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Evaluacion 1.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Evaluacion 1.exe.config
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\obj\Debug\Evaluacion 1.Test.csprojAssemblyReference.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\obj\Debug\Evaluacion 1.Test.csproj.CoreCompileInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\obj\Debug\Evaluacion 1.Test.csproj.CopyComplete
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\obj\Debug\Evaluacion 1.Test.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1.Test\obj\Debug\Evaluacion 1.Test.pdb

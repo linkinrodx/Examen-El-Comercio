@@ -1,0 +1,7 @@
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\bin\Debug\Evaluacion 1.exe.config
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\bin\Debug\Evaluacion 1.exe
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\bin\Debug\Evaluacion 1.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\obj\Debug\Evaluacion 1.csprojAssemblyReference.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\obj\Debug\Evaluacion 1.csproj.CoreCompileInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\obj\Debug\Evaluacion 1.exe
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 1\obj\Debug\Evaluacion 1.pdb
