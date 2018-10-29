@@ -1,0 +1,11 @@
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\bin\Debug\netcoreapp2.0\Evaluacion 2.deps.json
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\bin\Debug\netcoreapp2.0\Evaluacion 2.runtimeconfig.json
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\bin\Debug\netcoreapp2.0\Evaluacion 2.runtimeconfig.dev.json
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\bin\Debug\netcoreapp2.0\Evaluacion 2.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.csproj.CoreCompileInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.AssemblyInfoInputs.cache
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.AssemblyInfo.cs
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\bin\Debug\netcoreapp2.0\Evaluacion 2.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.dll
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.pdb
+E:\Proyectos RSS\Evaluacion Comercio\Evaluacion 2\obj\Debug\netcoreapp2.0\Evaluacion 2.csprojAssemblyReference.cache

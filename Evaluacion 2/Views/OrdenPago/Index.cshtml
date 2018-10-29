@@ -1,0 +1,30 @@
+﻿@model List<OrdenPagoViewModel>
+@{
+    ViewData["Title"] = "Orden de Pago";
+}
+
+<h2>Ordenes de Pago</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Monto</td>
+            <td>Moneda</td>
+            <td>Estado</td>
+            <td>Fecha Pago</td>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.IdOrden</td>
+            <td>@item.Monto</td>
+            <td>@item.Moneda</td>
+            <td>@item.Estado</td>
+            <td>@item.FechaPago.ToShortDateString()</td>
+        </tr>
+    }
+    </tbody>
+</table>

@@ -1,0 +1,30 @@
+﻿@model List<BancoViewModel>
+@{
+    ViewData["Title"] = "Bancos";
+}
+
+<h2>Bancos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Nombre</td>
+            <td>Dirección</td>
+            <td>FechaRegistro</td>
+            <td>Ver Sucursales</td>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.IdBanco</td>
+            <td>@item.Nombre</td>
+            <td>@item.Direccion</td>
+            <td>@item.FechaRegistro.ToShortDateString()</td>
+            <td><a href="@Url.Action("Index", "Sucursal", new { IdBanco = item.IdBanco })">Ver</a></td>
+        </tr>
+    }
+    </tbody>
+</table>

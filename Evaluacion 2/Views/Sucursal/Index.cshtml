@@ -1,0 +1,32 @@
+﻿@model List<SucursalViewModel>
+@{
+    ViewData["Title"] = "Sucursales";
+}
+
+<h2>Sucursales</h2>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <td>Id</td>
+            <td>Nombre</td>
+            <td>Dirección</td>
+            <td>FechaRegistro</td>
+            <td>Ver Ordenes Pago</td>
+        </tr>
+    </thead>
+    <tbody>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.IdSucursal</td>
+            <td>@item.Nombre</td>
+            <td>@item.Direccion</td>
+            <td>@item.FechaRegistro.ToShortDateString()</td>
+        <td><a href="@Url.Action("Index", "OrdenPago", new { IdSucursal = item.IdSucursal })">Ver</a></td>
+        </tr>
+    }
+    </tbody>
+        
+</table>
